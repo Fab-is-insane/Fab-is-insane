@@ -1,1 +1,14 @@
-<h3 align = "center">  You can visit my  <a href = "https://chisenoa.github.io">website</a>  for more detailed information about me  <br></h3><p align = "center">  <a href = "https://twitter.com/chisenoa" target = "_blank"><img alt = "followers" title = "Follow me on Twitter" src = "https://img.shields.io/twitter/follow/chisenoa?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>  <a href = "https://github.com/chisenoa" target = "_blank"><img alt = "followers" title = "Follow me on Github" src = "https://img.shields.io/github/followers/chisenoa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a></p><div>  <img alt = "Alperen's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=chisenoa&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117"/>  <img alt = "Alperen's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chisenoa&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/></div>
+<h3 align = "center">
+  You can visit my bot's
+  <a href = "https://fab-is-insane.github.io/test-website">website</a>
+  for more detailed information
+  <br>
+</h3>
+<p align = "center">
+  <a href = "https://twitter.com/chisenoa" target = "_blank"><img alt = "followers" title = "Follow me on Twitter" src = "https://img.shields.io/twitter/follow/chisenoa?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href = "https://github.com/" target = "_blank"><img alt = "followers" title = "Follow me on Github" src = "https://img.shields.io/github/followers/chisenoa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
+<div>
+  <img alt = "Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Fab-is-insane&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117"/>
+  <img alt = "Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fab-is-insane&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+</div>
