@@ -5,7 +5,7 @@
   <br>
 </h3>
 <p align = "center">
-  <a href = "https://github.com/" target = "_blank"><img alt = "followers" title = "Follow me on Github" src = "https://img.shields.io/github/followers/chisenoa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href = "https://github.com/Fab-is-insane" target = "_blank"><img alt = "followers" title = "Follow me on Github" src = "https://img.shields.io/github/followers/chisenoa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <div>
   <img alt = "Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Fab-is-insane&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117"/>
