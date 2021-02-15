@@ -5,7 +5,6 @@
   <br>
 </h3>
 <p align = "center">
-  <a href = "https://twitter.com/chisenoa" target = "_blank"><img alt = "followers" title = "Follow me on Twitter" src = "https://img.shields.io/twitter/follow/chisenoa?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href = "https://github.com/" target = "_blank"><img alt = "followers" title = "Follow me on Github" src = "https://img.shields.io/github/followers/chisenoa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <div>
