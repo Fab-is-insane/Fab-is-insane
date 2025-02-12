@@ -1,6 +1,6 @@
 <h3 align = "center">
   You can visit my bot's
-  <a href = "https://fab-is-insane.github.io/test-website">website</a>
+  <a href = "https://fab-is-insane.github.io/fab-website">website</a>
   for more detailed information
   <br>
 </h3>
